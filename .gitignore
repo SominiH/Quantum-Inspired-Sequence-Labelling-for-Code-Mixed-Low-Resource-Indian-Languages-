@@ -38,6 +38,9 @@ venv.bak/
 # Streamlit config / cache
 .streamlit/
 
+# Local Paper Archive (kept locally, not on GitHub)
+paper_archive/
+
 # Temporary / Scratch test files
 scratch_diag.py
 test_katex.html
