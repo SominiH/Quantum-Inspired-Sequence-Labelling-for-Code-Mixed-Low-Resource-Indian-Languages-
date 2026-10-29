@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit config / cache
+.streamlit/
+
+# Temporary / Scratch test files
+scratch_diag.py
+test_katex.html
+test_math.html
+test_math.pdf
+test_mathjax.html
+test_mathjax.pdf
+tune_word_counts.py
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
